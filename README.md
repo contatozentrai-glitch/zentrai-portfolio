@@ -12,7 +12,7 @@ A publicação usa os arquivos na raiz: `style.css`, `main.js`, `zentrai-logo.pn
 
 ## Configurar o WhatsApp
 
-Edite a constante `WHATSAPP_NUMBER` no começo de `main.js`, com código do país, DDD e número, usando apenas dígitos. Exemplo brasileiro: `5511999999999`.
+Edite a constante `WHATSAPP_NUMBER` no começo de `main.js`, com código do país, DDD e número, usando apenas dígitos. Exemplo brasileiro: `5546999749956`.
 
 ## Publicar gratuitamente na Vercel
 
