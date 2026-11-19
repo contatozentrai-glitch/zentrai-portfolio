@@ -1,6 +1,6 @@
 // Configure with the country code and area code, using digits only.
 // Example for Brazil: "5511999999999"
-const WHATSAPP_NUMBER = "INSIRA_SEU_NUMERO";
+const WHATSAPP_NUMBER = "46999749956";
 const WHATSAPP_MESSAGE = "Olá! Conheci a Zentrai pelo portfólio e gostaria de conversar sobre um projeto.";
 
 const menuButton = document.querySelector(".menu-toggle");
